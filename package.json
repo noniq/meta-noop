@@ -1,0 +1,45 @@
+{
+  "name": "meta-noop",
+  "version": "1.0.0",
+  "description": "Because a single implementation of noop() won't do.",
+  "main": "index.js",
+  "keywords": [
+    "util",
+    "noop",
+    "meta"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noniq/meta-noop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noniq/meta-noop/issues"
+  },
+  "author": "Stefan Daschek",
+  "license": "MIT",
+  "dependencies": {
+    "async.util.noop": "^0.5.2",
+    "basic-functions": "^1.0.5",
+    "blank-space": "0.0.1",
+    "co-noop": "0.0.1",
+    "empty": "^0.10.1",
+    "fj-noop": "^1.0.0",
+    "lodash._noop": "^2.2.1",
+    "lodash.noop": "^3.0.1",
+    "n0p3": "^1.0.2",
+    "no-op": "^1.0.3",
+    "node-noop": "^1.0.0",
+    "none": "^1.0.0",
+    "noop": "^0.2.2",
+    "noop-fn": "^1.0.0",
+    "noop2": "^2.0.0",
+    "noop3": "^13.7.2",
+    "noop4": "^1.2.0",
+    "noopaam": "0.0.2",
+    "nop": "^1.0.0",
+    "yanoop": "^1.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
