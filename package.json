@@ -1,6 +1,6 @@
 {
   "name": "meta-noop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Because a single implementation of noop() won't do.",
   "main": "index.js",
   "keywords": [
