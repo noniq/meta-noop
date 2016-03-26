@@ -7,7 +7,7 @@ const noops = [
   require("async.util.noop"),
   require("basic-functions").noop,
   require("blank-space").noop,
-  require("co-noop"), // returns a generator function version of noop …
+  require("co-noop"), // exports a generator function version of noop …
   require("empty").func,
   require("fj-noop").FUNC,
   require("lodash._noop"),
